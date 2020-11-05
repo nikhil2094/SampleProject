@@ -3,6 +3,6 @@
 # importing the random module
 import random
 
-print(random.randint(0,9))
-print(random.randint(0,9))
-print("hello")
+print("Random Number",random.randint(0,9))
+
+print("hello GitHub")
